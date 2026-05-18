@@ -194,12 +194,17 @@
   },
   "active": "4f895c12836182a0",
   "lastOpenFiles": [
-    "GDD.md",
-    "shots/shot-list.md",
     "logs/gdd-log.md",
+    "logs/prompt-plan.md.md",
+    "logs/workflow-notes.md.md",
+    "shots/shot-list.md",
+    "Utilities/Templates/LLMLog.md",
+    "workflows/flux_schnell_full_text_to_image.json",
+    "outputs/selected",
+    "outputs",
+    "GDD.md",
     "index.md",
     "shots",
-    "Utilities/Templates/LLMLog.md",
     "README.md",
     "LLM.md",
     "Utilities/Templates",
@@ -209,9 +214,6 @@
     "Текстовый документ.txt",
     "media/mp3",
     "media/Новая папка",
-    "media/video",
-    "media/audio",
-    "images/selected",
     ").md"
   ]
 }
